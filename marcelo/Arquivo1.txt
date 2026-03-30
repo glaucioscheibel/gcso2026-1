@@ -1,0 +1,12 @@
+primeiro arquivo com alguns textos ai
+linha 2
+linha 3
+linha 4
+
+adicionando mais linhas:
+linha 7
+linha 8
+
+adicionando MAIS DUAS linhas aqui:
+linha 11
+linha 12
