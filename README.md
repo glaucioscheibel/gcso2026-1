@@ -2,7 +2,7 @@
 Exercício da matéria de GCSO 2026
 
 1. Faça o clone do projeto GCSO:
-    `git clone https://github.com/glaucioscheibel/gcso2025-6.git`
+    `git clone https://github.com/glaucioscheibel/gcso2026-1.git`
     
 2. Crie uma *branch* com o seu nome + o numero 1.
 
